@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="names">
+        <item>Барсик</item>
+        <item>Кэсис</item>
+        <item>Ферруцио</item>
+        <item>Клементе</item>
+        <item>Грампи</item>
+        <item>Юппи</item>
+        <item>Шелли</item>
+        <item>Кактус</item>
+        <item>Леопардо</item>
+        <item>Жуля</item>
+    </string-array>
+
+    <string-array name="links">
+        <item>http://pngimg.com/uploads/cat/cat_PNG50546.png</item>
+        <item>http://pngimg.com/uploads/cat/cat_PNG50537.png</item>
+        <item>http://pngimg.com/uploads/cat/cat_PNG50525.png</item>
+        <item>http://pngimg.com/uploads/cat/cat_PNG50511.png</item>
+        <item>http://pngimg.com/uploads/cat/cat_PNG50498.png</item>
+        <item>http://pngimg.com/uploads/cat/cat_PNG50480.png</item>
+        <item>http://pngimg.com/uploads/cat/cat_PNG50433.png</item>
+        <item>http://pngimg.com/uploads/cat/cat_PNG50425.png</item>
+        <item>http://pngimg.com/uploads/cat/cat_PNG120.png</item>
+        <item>http://pngimg.com/uploads/cat/cat_PNG104.png</item>
+    </string-array>
+
+</resources>
