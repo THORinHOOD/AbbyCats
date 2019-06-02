@@ -7,7 +7,6 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.task.thorinhood.abbyycats.R;
-import com.task.thorinhood.abbyycats.behavior.OnImageSet;
 
 public class ViewHolder extends RecyclerView.ViewHolder {
 
